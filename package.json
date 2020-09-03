@@ -3,7 +3,10 @@
 	"displayName": "SQL Server Diagnostic Book",
 	"description": "A collection of notebooks to troubleshoot and diagnose any version of SQL Server",
 	"publisher": "emanuelemeazzo",
-	"repository": "https://github.com/EmanueleMeazzo/tsql.tech-Code-snippets",
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/EmanueleMeazzo/tsql.tech-Code-snippets"
+	},
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.39.0",
